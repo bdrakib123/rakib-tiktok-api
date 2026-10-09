@@ -10,3 +10,6 @@ test.mp4
 *.mp4
 
 *.bak
+.env
+config_direct.yaml.local-backup
+tiktok_search_integration.py.bak

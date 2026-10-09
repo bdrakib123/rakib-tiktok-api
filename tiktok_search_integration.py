@@ -2,6 +2,9 @@ import asyncio
 import base64
 import os
 import time
+from dotenv import load_dotenv
+
+load_dotenv()
 from contextlib import contextmanager
 from functools import partial
 

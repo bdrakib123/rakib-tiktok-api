@@ -1,10 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
 curl_cffi
 yt-dlp
-requests[socks]
-pycryptodome
-gmssl
+python-dotenv
 PyYAML
-pika
-pydantic
