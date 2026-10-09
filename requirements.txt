@@ -2,5 +2,6 @@ fastapi
 uvicorn
 curl_cffi
 yt-dlp
+requests
 python-dotenv
 PyYAML
