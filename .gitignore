@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+config_direct.yaml
+*.token
+*.cookie
+
+test.mp4
+*.mp4
+
+*.bak

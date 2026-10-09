@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+curl_cffi
+yt-dlp
+requests[socks]
+pycryptodome
+gmssl
+PyYAML
+pika
+pydantic
